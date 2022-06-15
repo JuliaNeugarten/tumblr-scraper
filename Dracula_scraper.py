@@ -27,7 +27,7 @@ filter = 'raw'
 before = calendar.timegm(time.gmtime())
 
 #Set output file here:
-outputPath = '//ia/Huygens$/home/JuliaNe/Documents/Persoonlijke Ontwikkeling/'
+outputPath = 'INSERT OUTPUT PATH HERE'
 
 
 filePath = outputPath + 'TumblrSearch-' + str(before) + '-' + tag + '.csv'
